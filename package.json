@@ -1,0 +1,14 @@
+{
+  "name": "azure_test_1",
+  "version": "1.0.0",
+  "description": "test of node.js on azure",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
+}
